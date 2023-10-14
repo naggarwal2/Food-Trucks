@@ -5,7 +5,7 @@ First of all, I extracted data using Yelp API which is stored into food_trucks_I
 
 Then, I imported this csv file into Travel_plan(1).ipynb Jupyter notebook, where I performed the data analysis( Tables, Pie Chart, Bar Graphs, Data Cleaning and Organizing), which is visisble as you scroll through the notebook.
 
-Now, The Jupyter notebook creates an excel file which includes a 2-day weekend Foodie Plan for our travellers and the corresponding route map.
+Now, The Jupyter notebook creates an excel file Techpoint_project.xlsx which includes a 2-day weekend Foodie Plan for our travellers and the corresponding route map.
 
  
                                                              OTHER COMMENTS
