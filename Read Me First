@@ -7,5 +7,8 @@ Then, I imported this csv file into Travel_plan(1).ipynb Jupyter notebook, where
 
 Now, The Jupyter notebook creates an excel file which includes a 2-day weekend Foodie Plan for our travellers and the corresponding route map.
 
+ 
+                                                             OTHER COMMENTS
+
 In the route visualisation code, I have used a Google API key, which I purchased for myself and Google does not allows to share the API key over Github. Hence, the code might give an error when executed on your end. Please feel free to contact me if you have any questions.
 
