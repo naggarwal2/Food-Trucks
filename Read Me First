@@ -11,4 +11,4 @@ Now, The Jupyter notebook creates an excel file Techpoint_project.xlsx which inc
                                                              OTHER COMMENTS
 
 In the route visualisation code, I have used a Google API key, which I purchased for myself and Google does not allows to share the API key over Github. Hence, the code might give an error when executed on your end. Please feel free to contact me if you have any questions.
-
+In the route,the G marker would not be visible because it is reserved by Google, however the route is complete for our travellers.
